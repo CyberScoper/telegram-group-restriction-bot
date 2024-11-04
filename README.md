@@ -14,7 +14,7 @@ This project is a Telegram bot designed to enhance group management by monitorin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telegram-restriction-bot.git
+   git clone https://github.com/CyberScopeToday/telegram-restriction-bot.git
    cd telegram-restriction-bot
    ```
 
