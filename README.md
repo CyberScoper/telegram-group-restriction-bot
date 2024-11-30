@@ -1,6 +1,8 @@
 
 # 🤖 Telegram Bot for User Restriction and Welcome Messaging
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8728dd66c5f84b20bbf6cb7dc3b18b14)](https://app.codacy.com/gh/CyberScopeToday/telegram-group-restriction-bot?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/telegram-group-restriction-bot&utm_campaign=Badge_Grade)
+
 This project is a Telegram bot designed to enhance group management by monitoring new members, applying temporary restrictions, and sending welcome messages after the restriction period.
 
 ## ✨ Features
