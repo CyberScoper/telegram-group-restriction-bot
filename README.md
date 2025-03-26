@@ -1,8 +1,6 @@
 
 # 🤖 Telegram Bot for User Restriction and Welcome Messaging
 
-[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/telegram-group-restriction-bot/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/telegram-group-restriction-bot)
-
 This project is a Telegram bot designed to enhance group management by monitoring new members, applying temporary restrictions, and sending welcome messages after the restriction period.
 
 ## ✨ Features
@@ -16,8 +14,8 @@ This project is a Telegram bot designed to enhance group management by monitorin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CyberScopeToday/telegram-group-restriction-bot.git
-   cd telegram-restriction-bot
+   git clone https://github.com/CyberScoper/telegram-group-restriction-bot.git
+   cd telegram-group-restriction-bot
    ```
 
 2. **Set up Python environment**:
